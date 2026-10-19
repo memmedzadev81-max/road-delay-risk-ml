@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+.env
+.venv/
+venv/
+outputs/*.png
+# keep the scored csv for reference if desired; uncomment to ignore
+# outputs/scored_projects.csv
